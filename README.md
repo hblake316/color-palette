@@ -1,4 +1,4 @@
-# **Color Scheme Generator**
+# **Color Palette Generator**
 
 ### **Description**
 A simple web app that generates beautiful 3-color palettes based on user-provided themes or preferences. Users can view, edit, and customize their palettes directly on the app. Built with HTML, CSS, and JavaScript, this project serves as a foundation for future features like account creation and advanced design tools.
@@ -14,13 +14,13 @@ A simple web app that generates beautiful 3-color palettes based on user-provide
 ---
 
 ### **Demo**
-Visit the live app: [Color Scheme Generator](https://hblake316.github.io/color-palette/)
+Visit the live app: [Color Palette Generator](https://hblake316.github.io/color-palette/)
 
 ---
 
 ### **Screenshots**
 #### **Home Page**
-![Color Palette - Home Page](images/color-palette-home.png)
+![Color Palette Generator - Home Page](images/color-palette-home.png)
 
 ---
 
@@ -34,11 +34,11 @@ To run this app locally, you'll need:
 #### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/color-scheme-generator.git
+   git clone https://github.com/hblake316/color-palette.git
 
 2. Navigate to the project directory:
    ```bash
-   cd color-scheme-generator
+   cd color-palette
 
 3. Open `index.html` in your browser or run a local server:
    - Using VS Code, install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension and open the project with Live Server.
@@ -62,5 +62,5 @@ To run this app locally, you'll need:
 ---
 
 ### **Contact**
-Created by [Heather Blake](https://your-portfolio-link.com)  
+Created by [Heather Blake](https://github.com/hblake316)  
 For questions or feedback, reach out at: hblake.dev@gmail.com
