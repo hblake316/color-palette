@@ -14,14 +14,13 @@ A simple web app that generates beautiful 3-color palettes based on user-provide
 ---
 
 ### **Demo**
-Visit the live app: [Color Scheme Generator](https://your-live-app-url.com)  
-*(Replace with your actual hosted URL)*
+Visit the live app: [Color Scheme Generator](https://hblake316.github.io/color-palette/)
 
 ---
 
 ### **Screenshots**
 #### **Home Page**
-*(Add a screenshot here once the app is live; use `![](path-to-screenshot)` syntax)*
+![Color Palette - Home Page](images/color-palette-home.png)
 
 ---
 
