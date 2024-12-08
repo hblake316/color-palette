@@ -47,24 +47,10 @@ https://hblake316.github.io/color-palette/?colors=%23FF5E5B,%232E86AB,%23F6C85F
 
 ---
 
-### **Getting Started**
+### **Known Issues**
 
-#### **Prerequisites**
-To run this app locally, you'll need:
-- A code editor like [VS Code](https://code.visualstudio.com/).
-- A browser (e.g., Chrome, Firefox).
-
-#### **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hblake316/color-palette.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd color-palette
-
-3. Open `index.html` in your browser or run a local server:
-   - Using VS Code, install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension and open the project with Live Server.
+#### **Invalid link**
+The GPT is returning an invalid link such that it is not clickable in the GPT response. This is a known issue with work-arounds. For now, the GPT returns the URL in a code snippet so that it may easily be copied and pasted into a browser address.
 
 ---
 
@@ -78,6 +64,7 @@ To run this app locally, you'll need:
 ---
 
 ### **Future Enhancements**
+- Handle invalid link
 - Add account creation and user login system.
 - Expand palettes to 5 or more colors with advanced customization options.
 - Allow users to download palettes in various formats (e.g., CSS, JSON).
