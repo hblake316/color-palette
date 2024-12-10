@@ -19,11 +19,11 @@ body {
   }
   
   .color-block {
-    width: 100px;
-    height: 100px;
-    margin: 0 10px;
-    border: 2px solid #ddd;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #000;
   }
+  
   
   button {
     padding: 0.5rem 1rem;
